@@ -1,3 +1,4 @@
+//A simple and cool visual effect for your terminal
 #include <stdio.h>
 #include <iostream>
 #include <stdlib.h>
@@ -37,8 +38,6 @@ int main() {
 
     int mx,my;
     int rngmx;
-
-
 
    
     std::setlocale(LC_ALL, "");
