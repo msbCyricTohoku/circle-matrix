@@ -1,4 +1,4 @@
-A cool colorful terminal effect.
+A cool colorful terminal effect. For fun :D
 
 ---
 screenshot:
